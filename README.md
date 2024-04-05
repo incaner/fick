@@ -46,6 +46,7 @@ There will be an output of (for now) maximum 5 lines of information. At the bott
 Fork that repository, install dependencies with *yarn* or *npm* and use the following commands to test functionality:
 
 ```bash
+yarn install # to install all dependencies 
 yarn test # run jest test suite and watch file change
 yarn start # run FICK main module
 ```

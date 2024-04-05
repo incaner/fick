@@ -18,7 +18,8 @@ function config(city) {
   var urls = {
     'Stuttgart': 'http://www.wg-gesucht.de/wg-zimmer-in-Stuttgart.124.0.1.0.html?offer_filter=1&category=0&city_id=124&rent_type=2',
     'Ludwigsburg': 'http://www.wg-gesucht.de/wg-zimmer-in-Ludwigsburg.79.0.1.0.html?offer_filter=1&category=0&country_code=de&city_name=Ludwigsburg&city_id=79&rent_type=2',
-    'Esslingen': 'http://www.wg-gesucht.de/wg-zimmer-in-Esslingen-am-Neckar.37.0.1.0.html?offer_filter=1&category=0&country_code=de&city_name=Esslingen+am+Neckar&city_id=37&rent_type=2'
+    'Esslingen': 'http://www.wg-gesucht.de/wg-zimmer-in-Esslingen-am-Neckar.37.0.1.0.html?offer_filter=1&category=0&country_code=de&city_name=Esslingen+am+Neckar&city_id=37&rent_type=2',
+    'Ulm' : 'https://www.wg-gesucht.de/wg-zimmer-in-Ulm.128.0.1.0.html?offer_filter=1&city_id=128&sort_column=0&sort_order=0&noDeact=1&categories%5B%5D=0&rent_types%5B%5D=2'
   };
 
   var cities = [
